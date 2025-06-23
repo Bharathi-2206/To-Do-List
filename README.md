@@ -187,12 +187,8 @@ npm run deploy
 
 ## Author
 
-👥 Henschel Nketchogue M. <a name="authors"></a>
+👥 Bharathi Lekireddy <a name="authors"></a>
 
-- GitHub: [miltonHenschel](https://github.com/miltonHenschel)
-- LinkedIn: [henschelnketchoguem](https://www.linkedin.com/in/henschelnketchoguem/)
-- Twitter: [nketchogue](https://twitter.com/nketchogue)
-- Instagram: [mpatchiehenschel](https://www.instagram.com/mpatchiehenschel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,8 +232,6 @@ Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
